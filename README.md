@@ -30,7 +30,7 @@ Below segments churn at much higher rates compared to others
 4. Customers with 3 or more products: Customers with 3 or more products leave the bank at a significantly higher rate than customers with fewer products
 
 ​​
-
+Tableau Link: https://public.tableau.com/app/profile/wei.cheng7743/viz/BankCustomerChurnStory_17370867894590/CustomerChurnStory
 
 
 
